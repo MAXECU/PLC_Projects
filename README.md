@@ -15,3 +15,10 @@
 
 ![A+B+A-B-](P3_A+B+A-B-.gif)
 
+
+4.Cylinder A+B+C+A-B-C-
+
+
+
+![A+B+C+A-B-C-](P4_A+B+C+A-B-C-.gif)
+
