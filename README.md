@@ -8,3 +8,8 @@
 2. Cylinder A+A-
 ![A+A-](P2._A+A-.gif)
 
+
+
+3. Cylinder A+B+A-B-
+![A+A-](P3_A+B+A-B-.gif)
+
