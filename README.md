@@ -11,5 +11,5 @@
 
 
 3. Cylinder A+B+A-B-
-![A+A-](P3_A+B+A-B-.gif)
+![A+B+A-B-](P3_A+B+A-B-.gif)
 
