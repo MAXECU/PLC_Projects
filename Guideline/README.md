@@ -9,7 +9,7 @@
 * In Detail : [Learning networking step by step](https://www.youtube.com/watch?v=n2D1o-aM-2s&list=PLwx50iFRrgAIYO-PUNr_nfdFz_XkPLMAY)
 * Overview  : [Industrial Networks](https://www.youtube.com/watch?v=zJDsEqCyTqc&list=PLln3BHg93SQ9BLnQy091oU6pGcMWdY0PX)
 
-- OSI Model explanation
+OSI Model explanation
 * [OSI Model Explained](https://www.youtube.com/watch?v=vv4y_uOneC0&t=796s)
 * [What is OSI Model?](https://www.youtube.com/watch?v=Ilk7UXzV_Qc&t=362s)
 
