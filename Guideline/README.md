@@ -10,5 +10,9 @@
 
 * https://www.youtube.com/watch?v=zJDsEqCyTqc&list=PLln3BHg93SQ9BLnQy091oU6pGcMWdY0PX
 
+- OSI Model explanation
+* https://www.youtube.com/watch?v=vv4y_uOneC0&t=796s
+* https://www.youtube.com/watch?v=Ilk7UXzV_Qc&t=362s
+
 3. PLC Basics Terminology :
 * https://www.youtube.com/watch?v=ReTtgzN-Dmc&list=PLln3BHg93SQ85ymy4VvtmRGxo2Stps2Iv
